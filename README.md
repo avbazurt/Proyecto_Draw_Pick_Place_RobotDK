@@ -5,7 +5,7 @@ El proyecto consiste en una estacion de trabajo  adecuada para la creacion de pa
 ### Contenido:
   - [Requisitos](#Requisitos)
   - [Dependencias](#Dependencias)
-  - [Bot_Telegram](#Bot Telegram)
+  - [Bot_Telegram](#Bot_Telegram)
   - [Capturas](#Capturas)
 
 
