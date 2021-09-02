@@ -1,1 +1,6 @@
-# Proyecto_Draw_Pick_Place_RobotDK
+# Proyecto Robotica: Estacion de Pintura controlado por Telegram
+
+## Requisitos:
+
+
+
