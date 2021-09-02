@@ -1,5 +1,5 @@
 """Autor: Adrian Vidal Bazurto Onofre
-Detalles completos del proyecto en
+Detalles completos del proyecto en https://github.com/TheLast20/Proyecto_Draw_Pick_Place_RobotDK
 
 Por la presente se otorga permiso, sin cargo, a cualquier persona que obtenga una copia.
 de este software y los archivos de documentación asociados.
