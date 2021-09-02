@@ -5,7 +5,7 @@ El proyecto consiste en una estacion de trabajo  adecuada para la creacion de pa
 ### Contenido:
   - [Requisitos](#Requisitos)
   - [Dependencias](#Dependencias)
-  - [Bot Telegram](#Bot Telegram)
+  - [Bot_Telegram](#Bot Telegram)
   - [Capturas](#Capturas)
 
 
@@ -18,7 +18,7 @@ El proyecto consiste en una estacion de trabajo  adecuada para la creacion de pa
 * robodk
 * robolink
 
-## Bot Telegram
+## Bot_Telegram:
 Para la interfaz de usuario se utilizo la API oficial de telegram (https://core.telegram.org/), por medio de la libreria Python-Telegram-Bot(https://github.com/python-telegram-bot/python-telegram-bot).
 
 ## Capturas:
