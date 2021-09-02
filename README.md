@@ -15,7 +15,12 @@ El proyecto consiste en una estacion de trabajo  adecuada para la creacion de pa
 Para la interfaz de usuario se utilizo la API oficial de telegram (https://core.telegram.org/), por medio de la libreria Python-Telegram-Bot(https://github.com/python-telegram-bot/python-telegram-bot).
 
 # Capturas:
+
+Interfaz Telegram
 ![github-small](https://github.com/TheLast20/Proyecto_Draw_Pick_Place_RobotDK/blob/main/Capturas/Telegram_%231.png)
+
+Resultado Dibujo
+![github-small](https://github.com/TheLast20/Proyecto_Draw_Pick_Place_RobotDK/blob/main/Capturas/RobotDK_%231.jfif)
 
 
 
