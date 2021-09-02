@@ -1,4 +1,4 @@
-# Proyecto Robotica: Estacion de Pintura controlado por Telegram
+# Proyecto Robótica: Estación de Pintura controlado por Telegram
 
 El proyecto consiste en una estacion de trabajo  adecuada para la creacion de paneles con textos personalizados. Los textos se recibiran por medio de un bot de telegram.
 
