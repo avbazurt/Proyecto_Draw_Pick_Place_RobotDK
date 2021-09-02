@@ -23,17 +23,17 @@ Para la interfaz de usuario se utilizo la API oficial de telegram (https://core.
 
 ## Capturas:
 
-Interfaz Telegram
+#Interfaz Telegram
 ![github-small](https://github.com/TheLast20/Proyecto_Draw_Pick_Place_RobotDK/blob/main/Capturas/Telegram_%231.png)
 
-Resultado Dibujo
+#Resultado Dibujo
 ![github-small](https://github.com/TheLast20/Proyecto_Draw_Pick_Place_RobotDK/blob/main/Capturas/RobotDK_%231.jfif)
 
-Creacion de Dibujo
+#Creacion de Dibujo
 
 ![github-small](https://github.com/TheLast20/Proyecto_Draw_Pick_Place_RobotDK/blob/main/Capturas/RobotDK_%232.gif)
 
-Estacion Trabajo con Objetos 3D
+#Estacion Trabajo con Objetos 3D
 ![github-small](https://github.com/TheLast20/Proyecto_Draw_Pick_Place_RobotDK/blob/main/Capturas/RobotDK_%233.jpeg)
 
 
